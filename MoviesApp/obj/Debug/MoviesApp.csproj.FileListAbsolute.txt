@@ -1,0 +1,14 @@
+C:\Users\Eldar\source\repos\MoviesApp\MoviesApp\obj\Debug\MoviesApp.csprojAssemblyReference.cache
+C:\Users\Eldar\source\repos\MoviesApp\MoviesApp\obj\Debug\MoviesApp.Form1.resources
+C:\Users\Eldar\source\repos\MoviesApp\MoviesApp\obj\Debug\MoviesApp.Properties.Resources.resources
+C:\Users\Eldar\source\repos\MoviesApp\MoviesApp\obj\Debug\MoviesApp.csproj.GenerateResource.cache
+C:\Users\Eldar\source\repos\MoviesApp\MoviesApp\obj\Debug\MoviesApp.csproj.CoreCompileInputs.cache
+C:\Users\Eldar\source\repos\MoviesApp\MoviesApp\bin\Debug\MoviesApp.exe.config
+C:\Users\Eldar\source\repos\MoviesApp\MoviesApp\bin\Debug\MoviesApp.exe
+C:\Users\Eldar\source\repos\MoviesApp\MoviesApp\bin\Debug\MoviesApp.pdb
+C:\Users\Eldar\source\repos\MoviesApp\MoviesApp\bin\Debug\RestSharp.dll
+C:\Users\Eldar\source\repos\MoviesApp\MoviesApp\bin\Debug\RestSharp.xml
+C:\Users\Eldar\source\repos\MoviesApp\MoviesApp\obj\Debug\MoviesApp.csproj.CopyComplete
+C:\Users\Eldar\source\repos\MoviesApp\MoviesApp\obj\Debug\MoviesApp.exe
+C:\Users\Eldar\source\repos\MoviesApp\MoviesApp\obj\Debug\MoviesApp.pdb
+C:\Users\Eldar\source\repos\MoviesApp\MoviesApp\obj\Debug\MoviesApp.Form2.resources
